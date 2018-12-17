@@ -1,2 +1,2 @@
 #MyProject
-This is my prject
+This is my project
